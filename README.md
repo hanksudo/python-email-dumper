@@ -3,4 +3,5 @@ python-email-dumper
 
 Python Email Web Crawler
 
-Check out my article here: http://asianzines.blogspot.com/2014/04/0x29-pymaildumperpy-python-email-web.html
+- [Email address harvesting - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Email_address_harvesting)
+- [PEP 0476 -- Enabling certificate verification by default for stdlib http clients | Python.org](https://www.python.org/dev/peps/pep-0476/)
